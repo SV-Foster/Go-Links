@@ -37,6 +37,7 @@ CREATE TABLE `links`  (
 -- Records of links
 -- ----------------------------
 INSERT INTO `links` VALUES (1, 1, 'bing! search engine', 'https://bing.com/');
+INSERT INTO `links` VALUES (2, 1, 'ChatGPT AI assistant', 'https://chatgpt.com/');
 
 -- ----------------------------
 -- Table structure for requests
